@@ -14,5 +14,5 @@ Note: This thesis for my undergraduate graduation was developed by myself, and i
 
 Of course, there was a lot wrong with what was written then, which I have completely revised in this article, and there are a lot of algorithmic features that lead to better conclusions. 
 
-This is new paper, I don't recommend reading my otld paper at the time, but I will still old paper url here:https://github.com/i12cu84/Mathematical-Modeling-Python
+This is new paper, I don't recommend reading my (old)paper at the time, but I will still (old)paper url here:https://github.com/i12cu84/Mathematical-Modeling-Python
 
