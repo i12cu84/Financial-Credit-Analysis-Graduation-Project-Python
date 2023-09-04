@@ -1,6 +1,8 @@
 # Undergraduate-Graduation-Project
 
-This is my 2022 undergraduate graduation design source code and thesis
+Project C of 2020 Shenzhen Cup Mathematical Modeling (National Competition), 
+
+is my 2022.6 undergraduate graduation design source code and thesis.
 
 The code folder is the source code
 
